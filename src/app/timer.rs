@@ -3,7 +3,7 @@ use std::thread;
 
     pub fn sprint(){
 
-    let duration = Duration::from_secs(25);
+    let duration = Duration::from_secs(25 * 60);
     let start = Instant::now();
 
     while start.elapsed() < duration{
@@ -15,7 +15,7 @@ use std::thread;
 
     pub fn break_time(){
 
-    let duration = Duration::from_secs(5);
+    let duration = Duration::from_secs(5 * 60);
     let start = Instant::now();
 
     while start.elapsed() < duration{

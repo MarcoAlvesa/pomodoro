@@ -5,7 +5,7 @@ use app::timer::{break_time, sprint};
 fn main() {
     while true {
 
-        println!("1. Sprint (45 minutes)");
+        println!("1. Sprint (25 minutes)");
         println!("2. Break (5 minutes)");
         println!("3. Exit");
         println!("Choose one option!");
