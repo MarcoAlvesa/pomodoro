@@ -1,0 +1,1 @@
+/home/margo/Desktop/Estudos/Rust/Pomodoro/target/debug/Pomodoro: /home/margo/Desktop/Estudos/Rust/Pomodoro/src/app/mod.rs /home/margo/Desktop/Estudos/Rust/Pomodoro/src/app/timer.rs /home/margo/Desktop/Estudos/Rust/Pomodoro/src/main.rs
